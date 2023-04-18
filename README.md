@@ -127,12 +127,14 @@ plt.show()
 ```
 ## Output:
 ### SOBEL EDGE DETECTOR
-
+## Sobel X:
 
 ![im1 dip7](https://user-images.githubusercontent.com/94165415/232846784-095c5796-8e1c-43de-8bf8-2f20d2788d36.jpg)
 
+## Sobel Y:
 ![im2 dip7](https://user-images.githubusercontent.com/94165415/232849890-cdc85c18-c212-4a56-b9b7-8ea06ec877c9.jpg)
 
+## Sobel XY:
 ![im3 dip7](https://user-images.githubusercontent.com/94165415/232856208-d93ab4ff-4589-48f2-87a1-92c0bb5fbeda.jpg)
 
 
